@@ -1,6 +1,5 @@
 var http = require('http')
 var fs = require('fs')
-var i = require('express-myconnection')
 
 var ip = '(https://127.0.0.1)'
 var port = 3000
